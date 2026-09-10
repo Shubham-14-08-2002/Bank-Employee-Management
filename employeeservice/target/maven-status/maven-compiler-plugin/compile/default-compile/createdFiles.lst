@@ -1,0 +1,5 @@
+com\bank\employee_service\model\Employee.class
+com\bank\employee_service\EmployeeServiceApplication.class
+com\bank\employee_service\controller\EmployeeController.class
+com\bank\employee_service\repository\EmployeeRepository.class
+com\bank\employee_service\client\CustomerFeignClient.class
